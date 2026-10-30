@@ -2,6 +2,14 @@
   "name": "react-scrolls",
   "version": "0.1.0",
   "description": "A lightweight React infinite scroller powered by IntersectionObserver.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cityofbinary/react-scrolls.git"
+  },
+  "homepage": "https://github.com/cityofbinary/react-scrolls#readme",
+  "bugs": {
+    "url": "https://github.com/cityofbinary/react-scrolls/issues"
+  },
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",

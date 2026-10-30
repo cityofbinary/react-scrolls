@@ -2,6 +2,8 @@
 
 A lightweight TypeScript React infinite scroller using IntersectionObserver.
 
+[GitHub repository](https://github.com/cityofbinary/react-scrolls) · [Report an issue](https://github.com/cityofbinary/react-scrolls/issues)
+
 ## Install
 
 ```sh
@@ -46,4 +48,4 @@ npm run build
 npm pack --dry-run
 ```
 
-Builds include ES modules, CommonJS, and TypeScript declarations. Choose a license and add author/repository metadata before publishing. To publish after signing in to npm, run `npm publish`; this runs type checking and builds automatically.
+Builds include ES modules, CommonJS, and TypeScript declarations. Choose a license and add author metadata before publishing. To publish after signing in to npm, run `npm publish`; this runs type checking and builds automatically.
