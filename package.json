@@ -1,5 +1,5 @@
 {
-  "name": "react-scrolls",
+  "name": "@cityofbinary/react-scrolls",
   "version": "0.1.0",
   "description": "A lightweight React infinite scroller powered by IntersectionObserver.",
   "repository": {

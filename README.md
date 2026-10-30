@@ -1,4 +1,4 @@
-# react-scrolls
+# @cityofbinary/react-scrolls
 
 A lightweight TypeScript React infinite scroller using IntersectionObserver.
 
@@ -7,7 +7,7 @@ A lightweight TypeScript React infinite scroller using IntersectionObserver.
 ## Install
 
 ```sh
-npm install react-scrolls
+npm install @cityofbinary/react-scrolls
 ```
 
 Requires React 16.8 or later and a browser with IntersectionObserver support.
@@ -15,7 +15,7 @@ Requires React 16.8 or later and a browser with IntersectionObserver support.
 ## Usage
 
 ```tsx
-import { InfiniteScroller } from 'react-scrolls'
+import { InfiniteScroller } from '@cityofbinary/react-scrolls'
 
 <InfiniteScroller
   canLoadMore={canLoadMore}
